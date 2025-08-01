@@ -1,9 +1,5 @@
 <h1 align="center">Olá,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> Eu sou o Gustavo Zella</h1>
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
 <div align="center">
   <img src ="./banner.png" />
   
@@ -15,7 +11,7 @@ Here are some ideas to get you started: -->
 
 <img  src="thoughtworks-gif_dribbble.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goconqr.com%2Fapunte%2F8836971%2Fapuntes-virtuales-informatica&psig=AOvVaw1aXbZ3asQrEiyVtlXZ0Z5U&ust=1754090770837000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDJhrCm6I4DFQAAAAAdAAAAABAL)" height="290px" align="right" />
 
-- 🙋‍♂️ Meu portfólio: **[CliqueAqui](GUZ3.github.io/)**
+🙋‍♂️ Meu portfólio: **[Clique Aqui](https://guz3.github.io)**
 
 -👾 Disponível para vagas Junior na área de tecnologia.
 
@@ -38,7 +34,7 @@ Here are some ideas to get you started: -->
 
 ## 😶‍🌫️ REDES SOCIAIS:
 
-<a href="https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="[https://www.instagram.com/soumyajit4419" target="_blank](https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==)"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 Estatísticas:
