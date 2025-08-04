@@ -1,7 +1,7 @@
 <h1 align="center">Olá,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> Eu sou o Gustavo Zella</h1>
 
 <div align="center">
-  <img src ="./BannerGithub.png" />
+  <img src ="./BannerGit" />
   
 </div>
 
