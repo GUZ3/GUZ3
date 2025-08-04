@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 Sobre mim:
 
-<img  src="./macacodando.gif" height="200px" align="right" />
+<img  src="./Macacodando.gif" height="200px" align="right" />
 
 🙋‍♂️ Meu portfólio: **[Clique Aqui](https://guz3.github.io)**
 
