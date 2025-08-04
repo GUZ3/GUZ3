@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 Sobre mim:
 
-<img  src="thoughtworks-gif_dribbble.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goconqr.com%2Fapunte%2F8836971%2Fapuntes-virtuales-informatica&psig=AOvVaw1aXbZ3asQrEiyVtlXZ0Z5U&ust=1754090770837000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDJhrCm6I4DFQAAAAAdAAAAABAL)" height="290px" align="right" />
+<img  src="./macacodando.gif" height="200px" align="right" />
 
 🙋‍♂️ Meu portfólio: **[Clique Aqui](https://guz3.github.io)**
 
