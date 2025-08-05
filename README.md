@@ -23,13 +23,10 @@
 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git)](https://skillicons.dev)
-<!--<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<!--<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<!--<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>-->
+[![JavaScript](https://skillicons.dev/icons?i=js)]((https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4))
+[![Html](https://skillicons.dev/icons?i=html)](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+[![GIT](https://skillicons.dev/icons?i=git)](https://www.youtube.com/watch?v=xEKo29OWILE)
 
 </p>
 
@@ -38,7 +35,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==)
 
-<!--<a href="https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>-->
 </p>
 
 ## 📊 Estatísticas:
