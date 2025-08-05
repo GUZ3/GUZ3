@@ -40,5 +40,8 @@
 ## 📊 Estatísticas:
 
 <div align="left">
-  <h3>Em breve</h3> 
+   <div class="stats-container">
+    <img src="https://github-readme-stats.vercel.app/api?username=GUZ3&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUZ3&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  </div>
 </div>
