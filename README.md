@@ -23,7 +23,7 @@
 
 <p>
 
-[![JavaScript](https://skillicons.dev/icons?i=js)]((https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4))
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLeuwJul7tRBfsm7sxnR5_7wG3KvaQ6oOt)
 [![Html](https://skillicons.dev/icons?i=html)](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 [![GIT](https://skillicons.dev/icons?i=git)](https://www.youtube.com/watch?v=xEKo29OWILE)
