@@ -35,7 +35,10 @@
 
 ## 😶‍🌫️ REDES SOCIAIS:
 
-<a href="https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==)
+
+<!--<a href="https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/gustavozella21?igsh=MXV0cjU4dzh0eXV2dA==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>-->
 </p>
 
 ## 📊 Estatísticas:
