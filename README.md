@@ -26,7 +26,7 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLeuwJul7tRBfsm7sxnR5_7wG3KvaQ6oOt)
 [![Html](https://skillicons.dev/icons?i=html)](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.youtube.com/watch?v=xEKo29OWILE)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.youtube.com/watch?v=Mp0vhMDI7fA&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=3)
 [![GIT](https://skillicons.dev/icons?i=git)](https://www.youtube.com/watch?v=xEKo29OWILE)
 
 </p>
