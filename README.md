@@ -44,6 +44,5 @@
      <a href="https://github.com/GUZ3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GUZ3&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUZ3&layout=compact&theme=dark">
-  <img src="https://github-profile-trophy.vercel.app/?username=guz3&theme=darkhub&margin-w=10&margin-h=10)">
   </div>
 </div>
