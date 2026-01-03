@@ -13,7 +13,7 @@
 
 🙋‍♂️ Meu portfólio: **[Clique Aqui](https://guz3.github.io)**
 
--👾 Disponível para vagas Junior na área de tecnologia.
+-👾 Disponível para vagas de estágio.
 
 -🔍 Sempre em busca de aprendizado.
 
