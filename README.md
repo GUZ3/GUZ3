@@ -14,25 +14,25 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 <img align="right" src="./esfera.gif" width="200px" height="200px"/>
 
-💻 Desenvolvedor em formação com foco em **lógica e Back-End**  
-🧠 Experiência acadêmica com **PHP, JavaScript e arquitetura MVC**  
-📚 Sempre estudando e evoluindo 
-🚀 Interesse em construir sistemas completos e funcionais  
+• Desenvolvedor em formação com foco em **lógica e Back-End** <br>
+• Experiência acadêmica com **PHP, JavaScript e arquitetura MVC** <br>
+• Sempre estudando e evoluindo <br>
+• Interesse em construir sistemas completos e funcionais <br>
 
 💼 **Disponível para estágio em desenvolvimento**  
 
 🌐 **Portfólio:**  
-👉 https://guz3.github.io  
+ https://guz3.github.io  
 
 <br>
 
 ---
 
-## ⚡ Stack Tecnológica
+##  Stack Tecnológica
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🧠 Diferenciais
+## Diferenciais
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Foco em construção de sistemas reais
 
 ---
 
-## 🌎 Contato
+## Contato
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Foco em construção de sistemas reais
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 
