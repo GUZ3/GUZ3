@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-<img align="right" src="./Macacodando.gif" height="200px"/>
+<img align="right" src="./esfera.gif" width="200px" height="200px"/>
 
 💻 Desenvolvedor em formação com foco em **lógica e Back-End**  
 🧠 Experiência acadêmica com **PHP, JavaScript e arquitetura MVC**  
@@ -27,6 +27,8 @@
 
 🌐 **Portfólio:**  
 👉 https://guz3.github.io  
+
+<br>
 
 ---
 
