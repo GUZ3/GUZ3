@@ -46,14 +46,16 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GUZ3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUZ3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GUZ3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUZ3&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8B5CF6&text_color=9CA3AF"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=GUZ3&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=GUZ3&theme=tokyonight&hide_border=true&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=9CA3AF"/>
 
 </div>
+
 
 ---
 
@@ -75,11 +77,11 @@ Foco em construção de sistemas reais
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gustavo-zella-6a4aaa2b0/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/gustavozella21" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -98,6 +100,6 @@ Foco em construção de sistemas reais
 
 <div align="center">
 
-💡 *"Mais importante que saber tudo, é aprender rápido e evoluir sempre."*
+💡 *"Cada erro vira melhoria"*
 
 </div>
