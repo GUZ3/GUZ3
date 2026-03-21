@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner500.png" width="100%" />
+<img src="./banner500gif.gif" width="100%" />
 
 # Gustavo Zella
 
