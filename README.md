@@ -19,7 +19,7 @@
 <img align="right" src="./esfera.gif" width="200px" height="200px"/>
 
 • Desenvolvedor em formação com foco em **lógica e Back-End** <br>
-• Experiência acadêmica com **PHP, JavaScript e arquitetura MVC** <br>
+• Experiência acadêmica com **PHP, JavaScript, node.js e arquitetura MVC** <br>
 • Sempre estudando e evoluindo <br>
 • Interesse em construir sistemas completos e funcionais <br>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,php,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,php,nodejs,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
